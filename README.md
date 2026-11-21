@@ -10,14 +10,14 @@
 console.log("hello world")
 ````
 * • Red fox — руда (звичайна) лисиця
-• Arctic fox (також white fox, polar fox) — песець (полярна лисиця)
-• Fennec fox — фенек
-• Corsac fox — корсак
-• Swift fox — американська лисиця (прудка лисиця)
-• Kit fox — довговуха лисиця
-• Tibetan fox (також Tibetan sand fox) — тибетська лисиця
-• Bengal fox — бенгальська лисиця
-• Cape fox — південноафриканська лисиця
+ *• Arctic fox (також white fox, polar fox) — песець (полярна лисиця)
+*• Fennec fox — фенек
+*• Corsac fox — корсак
+*• Swift fox — американська лисиця (прудка лисиця)
+*• Kit fox — довговуха лисиця
+*• Tibetan fox (також Tibetan sand fox) — тибетська лисиця
+*• Bengal fox — бенгальська лисиця
+*• Cape fox — південноафриканська лисиця
 *
 *
 
